@@ -111,8 +111,8 @@ class Helper {
      * permutation function
      *
      * @param str string to calculate permutation for
-     * @param l   starting index
-     * @param r   end index
+     * @param start starting index
+     * @param end   end index
      */
     ArrayList<String> combinationWord = new ArrayList<String>();
 
